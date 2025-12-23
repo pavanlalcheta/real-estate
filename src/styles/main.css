@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&display=swap');
+
+:root {
+  --primary-color: #2b7cff;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
